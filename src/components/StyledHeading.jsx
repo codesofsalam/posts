@@ -6,10 +6,10 @@ const StyledHeading = () => {
         <div className="absolute inset-0 bg-white/10 backdrop-blur-sm rounded-lg transform rotate-1"></div>
 
         <div className="relative bg-black/40 backdrop-blur-md p-8 rounded-lg shadow-2xl">
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-2">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-2 tracking-wide leading-relaxed">
             Who Thinks They&apos;re
           </h1>
-          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-yellow-200 via-pink-200 to-purple-200 text-transparent bg-clip-text">
+          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-yellow-200 via-pink-200 to-purple-200 text-transparent bg-clip-text tracking-wide leading-relaxed py-3">
             &quot;Not Good Enough&quot;
           </h1>
 
